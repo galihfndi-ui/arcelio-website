@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /jeep-adventure-kemuning
+Allow: /river-tubing-kemuning
+Allow: /outbound-kemuning
+Allow: /villa-kemuning
+Sitemap: https://lawuvista.com/sitemap.xml
